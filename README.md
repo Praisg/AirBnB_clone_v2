@@ -9,3 +9,6 @@ The  web application compose of:
     A website (the front-end) that shows the final product to everybody: static and dynamic
     A database or files that store data (data = objects)
     An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
+![Screenshot 2024-09-07 035912](https://github.com/user-attachments/assets/87eec0a1-9727-4dfc-8be3-c959e24640b3)
+![Screenshot 2024-09-07 035953](https://github.com/user-attachments/assets/f98e1a45-f923-4e63-ac89-7d40c6aa60b3)
+![Screenshot 2024-09-07 040009](https://github.com/user-attachments/assets/c966b14a-5dac-44ba-aed1-882cd2108f11)
